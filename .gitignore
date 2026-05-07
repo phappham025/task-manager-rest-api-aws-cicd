@@ -1,8 +1,4 @@
 node_modules/
-.env
-dist/
-build/
-coverage/
-.DS_Store
 npm-debug.log
-.prisma/
+.env
+.DS_Store
